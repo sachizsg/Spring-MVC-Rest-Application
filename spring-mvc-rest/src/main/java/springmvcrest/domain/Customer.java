@@ -8,7 +8,7 @@ import javax.persistence.Id;
 import lombok.Data;
 
 /**
- * Configured using Hibernateb Implementation of JPA
+ * Configured using Hibernate Implementation of JPA
  *
  */
 @Data
